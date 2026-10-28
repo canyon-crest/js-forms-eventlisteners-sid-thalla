@@ -12,7 +12,7 @@
 // ============================================
 //  WARM-UP: Shout It!
 // ============================================
-// When the user types text and clicks "Shout",
+// When the user types text and clic
 // display the text in ALL CAPS with "!" at the end.
 
 // STEP 1: Get the "Shout" button by its ID ("btnShout")
